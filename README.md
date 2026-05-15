@@ -3,6 +3,8 @@
 A modern, futuristic, and fully responsive portfolio built using **React, Vite, and Tailwind CSS**.
 This portfolio showcases my work, technical skills, projects, experience, and contact information with a clean UI and optimized performance.
 
+Live Demo : https://soumyajit-portfolio-eight.vercel.app/
+
 ---
 
 # 🌌 Overview
